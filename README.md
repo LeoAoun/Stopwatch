@@ -7,7 +7,7 @@
 <br>
 <div align="center">
 
-https://user-images.githubusercontent.com/100950151/160219479-ea376ee0-b2b9-45aa-9ca7-db9fbd068e5d.mp4
+![Stopwatch-Video](https://user-images.githubusercontent.com/100950151/160219544-38059969-5178-4ca7-a60c-343535e1d0a0.gif)
   
 </div>
 
