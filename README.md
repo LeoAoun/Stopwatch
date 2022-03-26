@@ -1,4 +1,4 @@
-# stopwatch
+# Stopwatch
 
 
 <p> <strong>Pt-BR: </strong> Um cronômetro simples com 3 funções (pausar, parar e começar/continuar), feito com HTML, CSS e Javascript</p>
