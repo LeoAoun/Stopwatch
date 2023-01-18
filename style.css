@@ -2,12 +2,12 @@ body{
     margin: 0;
     padding: 0;
     height: 100vh;
-    background: #0F2027;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #0F2027;  
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
 }
+
 #credits{
-    
     text-decoration: none;
     color: white;
     border-color: #190A05;
@@ -25,9 +25,11 @@ body{
     align-self: center;
    
 }
+
 #credits:hover{
     font-size: 1.2vw;
 }
+
 h1{
     font-size: 6vw;
     color: white;
@@ -39,18 +41,17 @@ h1{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background: #41295a;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #2F0743, #41295a);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #2F0743, #41295a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
+    background: #41295a; 
+    background: -webkit-linear-gradient(to right, #2F0743, #41295a);  
+    background: linear-gradient(to right, #2F0743, #41295a); 
     display: flex;
     text-align: center;
     flex-direction: column;
     width: 60vw;
     padding: 50px;
     border-radius: 10px;
-  
-
 }
+
 .button{
     margin-top: 10px;
     margin-bottom: 10px;
@@ -89,16 +90,17 @@ h1{
         /* flex-wrap: nowrap; */
         width: 40vw;
     }
+    
     .button{
         padding: 2vw 2vw 2vw;
         font-size: 4vw;
     }
+    
     h1{
         font-size: 7vw;
     }
 
     #credits{
-    
         text-decoration: none;
         color: white;
         border-color: #190A05;
@@ -114,8 +116,8 @@ h1{
         margin-top: 20px;
         max-width: 150px;
         align-self: center;
-       
     }
+    
     #credits:hover{
         font-size: 2.2vw;
     }
